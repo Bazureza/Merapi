@@ -1,5 +1,5 @@
 # Merapi : Tale from The Mountain
-<img src="https://user-images.githubusercontent.com/47166058/70557480-cd25fb80-1b7a-11ea-8fd4-a7a4c121a363.png"> </img>
+<img src="https://user-images.githubusercontent.com/47166058/70566096-4f1e2080-1b8b-11ea-9fc0-4d23e67a8f1c.png"> </img>
 
 Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale from The Mountain </b> yang dapat diakses pada link berikut untuk melihat konsep dari game kami : 
 <br>
