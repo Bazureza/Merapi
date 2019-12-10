@@ -27,7 +27,7 @@ public class AffterAnimationHandle : MonoBehaviour
         }
     }
 
-    public void Reset()
+    public void ResetCondition()
     {
         foreach (var obj in deactiveObject)
         {

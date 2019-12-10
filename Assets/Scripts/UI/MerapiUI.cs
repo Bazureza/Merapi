@@ -87,7 +87,6 @@ public class MerapiUI : MonoBehaviour
     {
         dayPhase_card.SetActive(true);
         //ColorMode
-        dayPhase_card.GetComponent<Image>().color = Color.white;
         dayPhase_title.color = Color.black;
         dayPhase_description.color = Color.black;
         dayPhase_status.color = Color.black;
@@ -102,7 +101,6 @@ public class MerapiUI : MonoBehaviour
     {
         nightPhase_card.SetActive(true);
         //ColorMode
-        nightPhase_card.GetComponent<Image>().color = Color.black;
         nightPhase_title.color = Color.white;
         nightPhase_description.color = Color.white;
         nightPhase_status.color = Color.white;

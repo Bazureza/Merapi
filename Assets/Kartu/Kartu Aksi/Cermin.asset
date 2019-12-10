@@ -20,7 +20,7 @@ MonoBehaviour:
     food: 0
     description: Kamu menemukan sebuah rumah tua yang didalamnya terdapat cermin yg
       bersih memperlihatkan keaadaan dirimu saat ini
-  OnExecuteEvent: 1
+  OnExecuteEvent: 0
   diceDecide:
     maxDice: 06000000
     specialEffect:
