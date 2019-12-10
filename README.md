@@ -1,9 +1,14 @@
 # Merapi : Tale from The Mountain
 <img src="https://user-images.githubusercontent.com/47166058/70557480-cd25fb80-1b7a-11ea-8fd4-a7a4c121a363.png"> </img>
 
-Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale from The Mountain </b> yang dapat diakses pada link berikut untuk melihat konsep dari game kami <a href="itch.io"> Link </a>
+Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale from The Mountain </b> yang dapat diakses pada link berikut untuk melihat konsep dari game kami : 
+<br>
+Board Game : <a href="https://boardgamegeek.com/"> Boardgame Geek  </a> 
+<br>
+Digital Game : <a href="itch.io"> Itch.io </a>
 <br>
 <br>
+
 <strong>Tim pengembang : Unit Kegabutan Mahasiswa </strong>
 <br>
 
