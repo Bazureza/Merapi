@@ -4,7 +4,7 @@
 Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale from The Mountain </b> yang dapat diakses pada link berikut untuk melihat konsep dari game kami <a href="itch.io"> Link </a>
 <br>
 <br>
-Tim pengembang :
+<strong>Tim pengembang : Unit Kegabutan Mahasiswa </strong>
 <br>
 
 <b>Project Manager</b>
@@ -44,12 +44,9 @@ Tim pengembang :
 <br>
 <img src="https://user-images.githubusercontent.com/47166058/70557585-00688a80-1b7b-11ea-8a7e-961eed5080c4.png" width="20px" > </img> 
 <a href="https://github.com/create-orx"> Kurniawan Setya Pradana</a> <b>(155150200111079)</b> <i>[Tester, Reviewer and Balancer]</i>
-
 <br>
+
 <b>Big Thanks To :</b>
 <br>
 <img src="https://user-images.githubusercontent.com/47166058/70557585-00688a80-1b7b-11ea-8a7e-961eed5080c4.png" width="20px" > </img>
-<a href="https://github.com/eriqadams">Eriq M. Adams Jonemaro, S.T., M.Kom</a> <i><b> [Our Lecture]</b></i>
-<br>
-
-<b> </b>
+<a href="https://github.com/eriqadams">Eriq Muhammad Adams Jonemaro, S.T., M.Kom</a> <i><b> [Our Lecture]</b></i>
