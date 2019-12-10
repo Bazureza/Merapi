@@ -7,7 +7,7 @@ Tim pengembang :
 <br>
 <b>Project Manager</b>
 <br>
-- <a href="https://github.com/azariaku">Muhammad Yusuf Azari</a> <b>(175150207111028)</b> <i>[Designer Merapi]</i>
+<a href="https://github.com/azariaku">Muhammad Yusuf Azari</a> <b>(175150207111028)</b> <i>[Designer Merapi]</i>
 <br><br>
 <b>Designer</b>
 <br>
@@ -35,4 +35,5 @@ Tim pengembang :
 <br>
 <br>
 <b>Big Thanks To :</b>
+<br>
 <a href="https://github.com/eriqadams">Eriq Muhammad Adams Jonemaro, S.T., M.Kom</a> <i><b>[Our Lecture]</b></i>
