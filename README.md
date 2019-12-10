@@ -10,7 +10,7 @@ Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale f
 <b>Project Manager</b>
 <br>
 <img src="https://user-images.githubusercontent.com/47166058/70557585-00688a80-1b7b-11ea-8a7e-961eed5080c4.png" width="20px" > </img> 
-<a href="https://github.com/azariaku">Muhammad Yusuf Azari</a> <b>(175150207111028)</b> <i>[Designer Merapi]</i>
+<a href="https://github.com/azariaku">Muhammad Yusuf Azari</a> <b>(175150207111028)</b> <i>[Leader of UKM]</i>
 <br>
 
 <b>Designer</b>
