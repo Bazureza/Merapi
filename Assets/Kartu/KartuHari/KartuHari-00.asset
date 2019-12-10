@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9752923baa705f4da16d943711fb839, type: 3}
+  m_Name: KartuHari-00
+  m_EditorClassIdentifier: 
+  dayName: Senin
+  statusPagi:
+    gambar: {fileID: 0}
+    nameCard: Hujan Uang
+    hp: 0
+    sanity: -2
+    food: 0
+    description: Pagi hari itu, sebuah hal yang sangat kamu harapkan terjadi. uang
+      dengan nominal beragam dari segala penjuru dunia jatuh dari langit layaknya
+      hujan. Tidak percaya akan hal ini menyebabkan kamu tidak bisa membedakan Asli
+      dan Fana
+  statusMalam:
+    gambar: {fileID: 0}
+    nameCard: Lailatul Qadr
+    hp: 0
+    sanity: 2
+    food: 0
+    description: Sebuah malam penuh kebahagiaan, suasana hutan yang tenang ditemani
+      suara aliran air menyejukkan hati.

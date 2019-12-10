@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ac999801d2b6c43bc4d8cf030dbd66, type: 3}
+  m_Name: Andre Setiawan
+  m_EditorClassIdentifier: 
+  status:
+    gambar: {fileID: 21300000, guid: bda3e7f76b15d2b4d9a44dee0651495b, type: 3}
+    nameCard: Andre Setiawan
+    hp: 4
+    sanity: 10
+    food: 7
+    description: Anak kota hype terkini yang berlibur ingin mendaki ke gunung. Memiliki
+      IQ yang diatas rata-rata namun sering sakit dikarenakan tidak tahan terhadap
+      iklim yang akhir-akhir ini ekstrim berganti-ganti. Asep selalu tidak lupa untuk
+      menyiapkan bekal secukupnya apabila ingin berpergian.
+  hp: 0
+  sanity: 4
+  food: 5

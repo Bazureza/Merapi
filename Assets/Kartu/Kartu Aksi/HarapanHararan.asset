@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208688dadc8d481479a3b947f20c8d8f, type: 3}
+  m_Name: HarapanHararan
+  m_EditorClassIdentifier: 
+  status:
+    gambar: {fileID: 0}
+    nameCard: Harapan atau Hararan
+    hp: 0
+    sanity: 0
+    food: 0
+    description: "Kamu melihatan setitik cahaya didepan dijalan yang ingin kamu lewati.\r\nRoll
+      dadu untuk mengetahui apa itu"
+  OnExecuteEvent: 1
+  diceDecide:
+    maxDice: 0500000006000000
+    specialEffect:
+    - gambar: {fileID: 0}
+      nameCard: Halusinasi
+      hp: 0
+      sanity: 0
+      food: 0
+      description: Kamu hanya berhalusinasi
+    - gambar: {fileID: 0}
+      nameCard: 
+      hp: 0
+      sanity: 0
+      food: 2
+      description: Kamu mendapatkan bekal
+  playerAffect:
+    specialEffect:
+      gambar: {fileID: 0}
+      nameCard: 
+      hp: 0
+      sanity: 0
+      food: 0
+      description: 

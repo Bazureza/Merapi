@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a8d5496268a8f45a56aa77a543d6ea, type: 3}
+  m_Name: Hypothermia
+  m_EditorClassIdentifier: 
+  status:
+    gambar: {fileID: 0}
+    nameCard: Hypothermia
+    hp: -2
+    sanity: 0
+    food: 0
+    description: Rasa dingin yang sangat menusuk, membuatmu menggigil pada malam ini.
+  OnExecuteEvent: 0
+  OnEverydayEvent: 0
+  OnEveryday: {fileID: 0}
+  OnLastEvent: 1
+  OnLast: {fileID: 0}

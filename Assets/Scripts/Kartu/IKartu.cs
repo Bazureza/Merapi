@@ -1,0 +1,6 @@
+﻿interface IKartu
+{
+    EffectStatus GetEffectStatus();
+
+
+}

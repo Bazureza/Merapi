@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ac999801d2b6c43bc4d8cf030dbd66, type: 3}
+  m_Name: Madok Ahgon
+  m_EditorClassIdentifier: 
+  status:
+    gambar: {fileID: 21300000, guid: bda3e7f76b15d2b4d9a44dee0651495b, type: 3}
+    nameCard: Madok Ahgon
+    hp: 10
+    sanity: 4
+    food: 6
+    description: "Orang gila yang kabur dari rumahsakit jiwa kedalam hutan. Dia ditangkap\r
+      karena membantai kantor polisi seorang diri setelah keluarganya ditangkap."
+  hp: 9
+  sanity: 0
+  food: 7
