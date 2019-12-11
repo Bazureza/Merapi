@@ -4,7 +4,7 @@
 Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale from The Mountain </b>. Dengan membawa tema mistis pegunungan Indonesia, Merapi dikemas dalam platform Windows Desktop yang mana membatasi player dengan minimum dam maksimum player adalah 4 orang. System multiplayer yang digunakan adalah multiplayer local. Berikut link untuk melihat konsep dari game kami, baik dalam bentuk executable digital maupun dalam bentuk gameboard yang kami submit : 
 <br>
 <br>
-Board Game : <a href="https://boardgamegeek.com/"> Boardgame Geek  </a> 
+Board Game : <a href="https://boardgamegeek.com/boardgame/293827/marapi-tales-mountain"> Boardgame Geek  </a> 
 <br>
 Digital Game : <a href="itch.io"> Itch.io </a>
 <br>
