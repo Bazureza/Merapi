@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameOverManagement : MonoBehaviour
 {
@@ -60,5 +61,10 @@ public class GameOverManagement : MonoBehaviour
         phasePanel.SetActive(false);
         actionPanel.SetActive(false);
         dayChangePanel.SetActive(false);
+    }
+
+    public void Click()
+    {
+        SceneManager.LoadScene("Merapi_MENU");
     }
 }

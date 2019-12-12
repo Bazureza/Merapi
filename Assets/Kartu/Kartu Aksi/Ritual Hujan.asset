@@ -20,8 +20,23 @@ MonoBehaviour:
     food: 1
     description: "Exorcizamus te, omnis immundus spiritus, omnis satanica potestas
       omnis incursio infernalis adversarii.\r\nOmnis legio! Omnis con... potestas,
-      omnis incursio infernalis adversarii.\r\nOmnis legio! Omnis congregatio et secta
-      diabolica! Ergo, Draco maledicte et omnis......legio diabolica, \r\nadiuramus
-      te! Exorcizamus te, omnis immundus spiritus, omnis satanica potestas, omnis
-      incursio infernalis adversarii. \r\nOmnis legio! Omnis congregatio et secta
-      diabolica! \r\nErgo, Draco maledicte et omnis legio diabolica, adiuramus te"
+      omnis innica potestas, omnis incursio infernalis adversarii. \r\nErgo, Draco
+      maledicte et omnis legio diabolica, adiuramus te"
+  OnExecuteEvent: 0
+  diceDecide:
+    maxDice: 06000000
+    specialEffect:
+    - gambar: {fileID: 0}
+      nameCard: 
+      hp: 0
+      sanity: 0
+      food: 0
+      description: 
+  playerAffect:
+    specialEffect:
+      gambar: {fileID: 0}
+      nameCard: 
+      hp: 0
+      sanity: 0
+      food: 0
+      description: 

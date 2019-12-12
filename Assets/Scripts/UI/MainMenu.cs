@@ -67,7 +67,7 @@ public class MainMenu : MonoBehaviour
     {
        // Sound(0);
 
-        SceneManager.LoadScene("Mysticalas_GAME");
+        SceneManager.LoadScene("Merapi_GAME");
     }
     /*void setSoundPrefs()
     {

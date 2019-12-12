@@ -6,6 +6,8 @@ using UnityEngine;
 public class StatusManagement : MonoBehaviour
 {
     public static StatusManagement instance;
+    
+    [SerializeField] private RollDice rollDice;
 
     [SerializeField] private List<KartuStatus> statusCard;
 
@@ -72,12 +74,12 @@ public class StatusManagement : MonoBehaviour
         }
     }
 
-    public void RollDice()
+    public void RollTheDice()
     {
         try
         {
-            dice = UnityEngine.Random.Range(0, 6);
-            MerapiUI.instance.RenderRollDiceInfoStatus("You roll " + dice + "\n" + currentActiveStatus.GetDiceDecide(dice).description);
+            dice = UnityEngine.Random.Range(1, 6);
+            rollDice.Initialize(dice,"Status", currentActiveStatus.GetDiceDecide(dice).description);
         } catch (Exception ex)
         {
 

@@ -32,6 +32,7 @@
           </e>
           <e p="MerapiPlayer.cs" t="Include" />
           <e p="Preparation.cs" t="Include" />
+          <e p="RollDice.cs" t="Include" />
           <e p="SpecialEffect" t="Include">
             <e p="DiceDecide.cs" t="Include" />
             <e p="PlayerAffect.cs" t="Include" />

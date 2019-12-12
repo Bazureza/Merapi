@@ -12,6 +12,8 @@ public class ActionManagement : MonoBehaviour
     private Stack<KartuAksi> graveDeck;
     private Stack<KartuAksi> cardDeck;
 
+    [SerializeField] private RollDice rollDice;
+
     private KartuAksi currentActionCard;
 
     private bool takeAction;
@@ -65,9 +67,7 @@ public class ActionManagement : MonoBehaviour
 
     public void ExecuteAction()
     {
-        TurnPlayerManager.instance.ExecuteEffectToCurrentPlayer(currentActionCard.GetEffectStatus());
-        MerapiUI.instance.UpdateLog((TurnPlayerManager.instance.GetCurrentStatePlayer().GetKarakter().GetName() + " got "), currentActionCard.GenerateStatusEffect());
-
+        
         if (currentActionCard.OnExecuteEvent == GameVariables.EffectType.None)
         {
             TurnPlayerManager.instance.ExecuteEffectToCurrentPlayer(currentActionCard.GetEffectStatus());
@@ -96,12 +96,13 @@ public class ActionManagement : MonoBehaviour
         return takeAction;
     }
 
-    public void RollDice()
+    public void RollTheDice()
     {
+        
         try
         {
-            dice = UnityEngine.Random.Range(0, 6);
-            MerapiUI.instance.RenderRollDiceInfoAction("You roll " + dice + "\n" + currentActionCard.GetDiceDecide(dice).description);
+            dice = UnityEngine.Random.Range(1, 6);
+            rollDice.Initialize(dice,"Action", currentActionCard.GetDiceDecide(dice).description);    
         }
         catch (Exception ex)
         {

@@ -5,12 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Merapi_MENU.unity
+    guid: 3cae40478dc77c3449365b39f93ebb3d
   - enabled: 1
     path: Assets/Scenes/Merapi_GAME.unity
     guid: 22446cbf4472c7742bfaf3e55d4a4f11
