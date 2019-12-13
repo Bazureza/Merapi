@@ -6,7 +6,7 @@ Repository ini adalah sourcecode dari digitalisasi gameboard <b> Merapi : Tale f
 <br>
 Board Game : <a href="https://boardgamegeek.com/boardgame/293827/marapi-tales-mountain"> Boardgame Geek  </a> 
 <br>
-Digital Game : <a href="itch.io"> Itch.io </a>
+Digital Game : <a href="https://penguin55.itch.io/marapi-tftm"> Itch.io </a>
 <br>
 <br>
 
